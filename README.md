@@ -57,7 +57,7 @@ ntxdev | http://www.ntxdev.com.br
 Nuveo | https://www.nuveo.com.br/
 Núcleo Digital | http://www.nucleodigital.cc
 Olist | https://olist.com
-Onyo | http://www.onyo.com
+Onyo | https://www.site.onyo.com/
 Parafuzo | http://www.parafuzo.com
 Pismo | http://pismo.io/
 Prime Systems | http://www.primesystems.com.br/
